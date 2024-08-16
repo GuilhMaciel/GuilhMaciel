@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Guilherme, and I'm a front-end developer, from ES, Brazil.</p>
+<p align="center">My name is Guilherme, and I'm a front-end developer, from ES, Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a Computer Engineering student focused on front-end development. I am interested in creating intuitive and responsive user interfaces using HTML, CSS, JavaScript, and React.</p>
+<p align="center">I am a Computer Engineering student focused on front-end development. I am interested in creating intuitive and responsive user interfaces using HTML, CSS, JavaScript, and React.</p>
 
 ###
 
